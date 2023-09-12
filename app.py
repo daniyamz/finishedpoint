@@ -20,7 +20,7 @@ def show():
         "utc_time" : utc_time,
         "track" :track,
         "github_file_url" : "htts://github.com/daniyamz/repo/blob/main/file_name.ext",
-        "github_repo_url" : "https://github.com//endpoint",
+        "github_repo_url" : "https://github.com/daniyamz/endpoint",
         "status_code" : 200
     })
     
