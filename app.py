@@ -19,8 +19,8 @@ def show():
         "current_day" : current_day,
         "utc_time" : utc_time,
         "track" :track,
-        "github_file_url" : "htts://github.com/YaMz/repo/blob/main/file_name.ext",
-        "github_repo_url" : "https://github.com/YaMz/endpoint",
+        "github_file_url" : "htts://github.com/daniyamz/repo/blob/main/file_name.ext",
+        "github_repo_url" : "https://github.com//endpoint",
         "status_code" : 200
     })
     
